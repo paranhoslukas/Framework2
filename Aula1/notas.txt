@@ -1,0 +1,9 @@
+..pwd caminho completo do nome do diretorio 
+
+
+primeiro git init
+segundo git status
+
+para adicinar git add
+para adicinar todos os arquivos git add .
+
