@@ -1,17 +1,15 @@
 {
-  "dependencies": {
-    "express": "^4.19.2",
-    "handlebars": "^4.7.8",
-    "swagger-ui-express": "^5.0.1"
-  },
-  "name": "desenvolvimento_framework",
+  "name": "api-test-end-to-end",
   "version": "1.0.0",
-  "main": "aula1.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
 }
