@@ -36,6 +36,7 @@
             }
           }
         },
+
         "post": {
           "tags": ["Alunos"],
           "summary": "Adicionar um novo usuário",
@@ -77,7 +78,8 @@
           }
         }
       },
-      "/api/aluno/{id}": {
+
+      "/api/alunos/{id}": {
         "put": {
           "tags": ["Alunos"],
           "summary": "Atualizar um usuário existente",
